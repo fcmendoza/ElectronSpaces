@@ -1,0 +1,23 @@
+{
+  "name": "ElectronSpaces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcmendoza/ElectronSpaces.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fcmendoza/ElectronSpaces/issues"
+  },
+  "homepage": "https://github.com/fcmendoza/ElectronSpaces#readme",
+  "devDependencies": {
+    "electron": "^1.4.15"
+  }
+}
